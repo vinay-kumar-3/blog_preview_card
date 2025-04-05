@@ -30,8 +30,8 @@ The goal was to create a simple and clean blog card layout. The design includes:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/vinay-kumar-3/blog_preview_card)
+- Live Site URL: [Blog Card Site](https://deft-kashata-e70571.netlify.app/)
 
 ## My process
 
